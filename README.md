@@ -1,19 +1,20 @@
-# CSE331-Stride-Scheduler-Project
+# CSE331 Stride Scheduler Project
 
-First Phase of The Project
-```bash
-1)Read Phase1_Fall2023.pdf file to understand the steps
-2)Check Phase 1 file to see the final result you need to achieve.
-```
+## Overview
+This repository contains the project files for the CSE331 Stride Scheduler Project. The project is divided into two phases, each with its respective instructions and deliverables.
 
-Second Phase of The Project
-```bash
-1)Read F23P2_Stride.pdf file to understand the steps
-2)Check Phase 2 file to see the final result you need to achieve.
-```
-Report For The Project
-```bash
-Phase2_Report.pdf
-```
+## First Phase
+- Read the `Phase1_Fall2023.pdf` file to understand the steps involved.
+- Check the Phase 1 file to see the final result you need to achieve.
 
-Use project-slides file to understand the project better.
+## Second Phase
+- Read the `F23P2_Stride.pdf` file to understand the steps involved.
+- Check the Phase 2 file to see the final result you need to achieve.
+
+## Project Report
+- The `Phase2_Report.pdf` file contains the detailed report for the project.
+
+## Additional Resources
+- Utilize the `project-slides` file to gain a better understanding of the project.
+
+⚠️ Please note: Use the `project-slides` file to understand the project better. It provides additional insights and context to aid in your understanding.
