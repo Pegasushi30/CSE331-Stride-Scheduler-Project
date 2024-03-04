@@ -1,4 +1,4 @@
-# CSE331 Stride Scheduler Project
+# Stride Scheduler Project
 
 ## Overview
 This repository contains the project files for the CSE331 Stride Scheduler Project. The project is divided into two phases, each with its respective instructions and deliverables. All the work done by Ali Emir Altın, Burak Eymen Çevik and Yusuf Üngör as a team project.
